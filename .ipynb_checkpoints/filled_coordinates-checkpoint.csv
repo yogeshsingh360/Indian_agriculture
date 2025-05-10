@@ -9,7 +9,7 @@ Andhra Pradesh,KURNOOL,"KURNOOL, Andhra Pradesh, India",15.8309251,78.0425373
 Andhra Pradesh,PRAKASAM,"PRAKASAM, Andhra Pradesh, India",15.6642643,79.4733001
 Andhra Pradesh,SPSR NELLORE,"SPSR NELLORE, Andhra Pradesh, India",14.7174388,79.6605057
 Andhra Pradesh,SRIKAKULAM,"SRIKAKULAM, Andhra Pradesh, India",18.2949307,83.8938844
-Andhra Pradesh,VISAKHAPATANAM,"VISAKHAPATANAM, Andhra Pradesh, India",,
+Andhra Pradesh,VISAKHAPATANAM,"VISAKHAPATANAM, Andhra Pradesh, India",17.68009,83.20161
 Andhra Pradesh,VIZIANAGARAM,"VIZIANAGARAM, Andhra Pradesh, India",18.1141255,83.4114389
 Andhra Pradesh,WEST GODAVARI,"WEST GODAVARI, Andhra Pradesh, India",16.6443028,81.5885247
 Arunachal Pradesh,ANJAW,"ANJAW, Arunachal Pradesh, India",28.1114301,96.8269996
@@ -22,7 +22,7 @@ Arunachal Pradesh,LOHIT,"LOHIT, Arunachal Pradesh, India",28.0350161,96.1713515
 Arunachal Pradesh,LOWER DIBANG VALLEY,"LOWER DIBANG VALLEY, Arunachal Pradesh, India",28.2149563,95.878774
 Arunachal Pradesh,LOWER SUBANSIRI,"LOWER SUBANSIRI, Arunachal Pradesh, India",27.5326327,93.7823245
 Arunachal Pradesh,PAPUM PARE,"PAPUM PARE, Arunachal Pradesh, India",27.2863666,93.6187716
-Arunachal Pradesh,TAWANG,"TAWANG, Arunachal Pradesh, India",,
+Arunachal Pradesh,TAWANG,"TAWANG, Arunachal Pradesh, India",27.57417,91.92437
 Arunachal Pradesh,TIRAP,"TIRAP, Arunachal Pradesh, India",27.030169,95.4979175
 Arunachal Pradesh,UPPER SIANG,"UPPER SIANG, Arunachal Pradesh, India",28.7312046,95.0377315
 Arunachal Pradesh,UPPER SUBANSIRI,"UPPER SUBANSIRI, Arunachal Pradesh, India",28.2596054,94.0938106
@@ -122,7 +122,7 @@ Gujarat,BANAS KANTHA,"BANAS KANTHA, Gujarat, India",24.25,72.5
 Gujarat,BHARUCH,"BHARUCH, Gujarat, India",21.7080427,72.9956936
 Gujarat,BHAVNAGAR,"BHAVNAGAR, Gujarat, India",21.7718836,72.1416449
 Gujarat,DANG,"DANG, Gujarat, India",20.7881718,73.7092033
-Gujarat,DOHAD,"DOHAD, Gujarat, India",,
+Gujarat,DOHAD,"DOHAD, Gujarat, India",22.9,74.0
 Gujarat,GANDHINAGAR,"GANDHINAGAR, Gujarat, India",23.2232877,72.6492267
 Gujarat,JAMNAGAR,"JAMNAGAR, Gujarat, India",22.4732415,70.0552102
 Gujarat,JUNAGADH,"JUNAGADH, Gujarat, India",21.5220416,70.4582458
@@ -186,24 +186,24 @@ Jammu and Kashmir ,KATHUA,"KATHUA, Jammu and Kashmir , India",32.3765524,75.5243
 Jammu and Kashmir ,KISHTWAR,"KISHTWAR, Jammu and Kashmir , India",33.3107908,75.7694213
 Jammu and Kashmir ,KULGAM,"KULGAM, Jammu and Kashmir , India",33.6446899,75.0188432
 Jammu and Kashmir ,KUPWARA,"KUPWARA, Jammu and Kashmir , India",34.5140696,74.191367
-Jammu and Kashmir ,LEH LADAKH,"LEH LADAKH, Jammu and Kashmir , India",,
+Jammu and Kashmir ,LEH LADAKH,"LEH LADAKH, Jammu and Kashmir , India",34.16504,77.58402
 Jammu and Kashmir ,POONCH,"POONCH, Jammu and Kashmir , India",33.7670004,74.0957143
 Jammu and Kashmir ,PULWAMA,"PULWAMA, Jammu and Kashmir , India",33.9490472,75.0418335
-Jammu and Kashmir ,RAJAURI,"RAJAURI, Jammu and Kashmir , India",,
+Jammu and Kashmir ,RAJAURI,"RAJAURI, Jammu and Kashmir , India",33.375,74.3
 Jammu and Kashmir ,RAMBAN,"RAMBAN, Jammu and Kashmir , India",33.3332891,75.1984763
-Jammu and Kashmir ,REASI,"REASI, Jammu and Kashmir , India",,
-Jammu and Kashmir ,SAMBA,"SAMBA, Jammu and Kashmir , India",,
-Jammu and Kashmir ,SHOPIAN,"SHOPIAN, Jammu and Kashmir , India",,
-Jammu and Kashmir ,SRINAGAR,"SRINAGAR, Jammu and Kashmir , India",,
-Jammu and Kashmir ,UDHAMPUR,"UDHAMPUR, Jammu and Kashmir , India",,
-Jharkhand,BOKARO,"BOKARO, Jharkhand, India",,
+Jammu and Kashmir ,REASI,"REASI, Jammu and Kashmir , India",33.08,74.83
+Jammu and Kashmir ,SAMBA,"SAMBA, Jammu and Kashmir , India",32.57,75.12
+Jammu and Kashmir ,SHOPIAN,"SHOPIAN, Jammu and Kashmir , India",33.72,74.83
+Jammu and Kashmir ,SRINAGAR,"SRINAGAR, Jammu and Kashmir , India",34.09,74.79
+Jammu and Kashmir ,UDHAMPUR,"UDHAMPUR, Jammu and Kashmir , India",32.93,75.13
+Jharkhand,BOKARO,"BOKARO, Jharkhand, India",23.67,86.15
 Jharkhand,CHATRA,"CHATRA, Jharkhand, India",24.1062316,84.8623379
 Jharkhand,DEOGHAR,"DEOGHAR, Jharkhand, India",24.4898318,86.6990182
 Jharkhand,DHANBAD,"DHANBAD, Jharkhand, India",23.7952809,86.4309638
 Jharkhand,DUMKA,"DUMKA, Jharkhand, India",24.2677937,87.2485495
-Jharkhand,EAST SINGHBUM,"EAST SINGHBUM, Jharkhand, India",,
+Jharkhand,EAST SINGHBUM,"EAST SINGHBUM, Jharkhand, India",22.78,86.18
 Jharkhand,GARHWA,"GARHWA, Jharkhand, India",24.053577,83.6526818
-Jharkhand,GIRIDIH,"GIRIDIH, Jharkhand, India",,
+Jharkhand,GIRIDIH,"GIRIDIH, Jharkhand, India",24.18,86.3
 Jharkhand,GODDA,"GODDA, Jharkhand, India",24.8645886,87.2984838
 Jharkhand,GUMLA,"GUMLA, Jharkhand, India",23.1603759,84.4599565
 Jharkhand,HAZARIBAGH,"HAZARIBAGH, Jharkhand, India",24.0866962,85.4912231
@@ -231,7 +231,7 @@ Karnataka,CHAMARAJANAGAR,"CHAMARAJANAGAR, Karnataka, India",11.95442,77.1069086
 Karnataka,CHIKBALLAPUR,"CHIKBALLAPUR, Karnataka, India",13.4274405,77.7321433
 Karnataka,CHIKMAGALUR,"CHIKMAGALUR, Karnataka, India",13.318014,75.7738743
 Karnataka,CHITRADURGA,"CHITRADURGA, Karnataka, India",14.3049174,76.5297234
-Karnataka,DAKSHIN KANNAD,"DAKSHIN KANNAD, Karnataka, India",,
+Karnataka,DAKSHIN KANNAD,"DAKSHIN KANNAD, Karnataka, India",12.87,74.88
 Karnataka,DAVANGERE,"DAVANGERE, Karnataka, India",14.4661266,75.9206361
 Karnataka,DHARWAD,"DHARWAD, Karnataka, India",15.3707296,75.1332867
 Karnataka,GADAG,"GADAG, Karnataka, India",15.416692,75.6815801
@@ -248,7 +248,7 @@ Karnataka,RAMANAGARA,"RAMANAGARA, Karnataka, India",12.720006,77.3184199
 Karnataka,SHIMOGA,"SHIMOGA, Karnataka, India",14.0556502,75.2380553
 Karnataka,TUMKUR,"TUMKUR, Karnataka, India",13.3400771,77.1006208
 Karnataka,UDUPI,"UDUPI, Karnataka, India",13.5269784,74.8731879
-Karnataka,UTTAR KANNAD,"UTTAR KANNAD, Karnataka, India",,
+Karnataka,UTTAR KANNAD,"UTTAR KANNAD, Karnataka, India",14.8,74.13
 Karnataka,YADGIR,"YADGIR, Karnataka, India",16.5744123,76.9254434
 Kerala,ALAPPUZHA,"ALAPPUZHA, Kerala, India",9.5006651,76.4124143
 Kerala,ERNAKULAM,"ERNAKULAM, Kerala, India",9.9837257,76.2740001
@@ -421,7 +421,7 @@ Punjab,BARNALA,"BARNALA, Punjab, India",30.3716802,75.5039887
 Punjab,BATHINDA,"BATHINDA, Punjab, India",30.1794813,75.0471098
 Punjab,FARIDKOT,"FARIDKOT, Punjab, India",30.6014507,74.7950176
 Punjab,FATEHGARH SAHIB,"FATEHGARH SAHIB, Punjab, India",30.6634041,76.3803
-Punjab,FIROZEPUR,"FIROZEPUR, Punjab, India",,
+Punjab,FIROZEPUR,"FIROZEPUR, Punjab, India",30.93,74.61
 Punjab,GURDASPUR,"GURDASPUR, Punjab, India",31.9037264,75.2275587
 Punjab,HOSHIARPUR,"HOSHIARPUR, Punjab, India",31.6092942,75.8459754
 Punjab,JALANDHAR,"JALANDHAR, Punjab, India",31.2922311,75.5678878
@@ -472,7 +472,7 @@ Rajasthan,UDAIPUR,"UDAIPUR, Rajasthan, India",24.578721,73.6862571
 Sikkim,EAST DISTRICT,"EAST DISTRICT, Sikkim, India",27.3338349,88.614658
 Sikkim,NORTH DISTRICT,"NORTH DISTRICT, Sikkim, India",27.666667,88.5
 Sikkim,SOUTH DISTRICT,"SOUTH DISTRICT, Sikkim, India",27.333333,88.416667
-Sikkim,WEST DISTRICT,"WEST DISTRICT, Sikkim, India",,
+Sikkim,WEST DISTRICT,"WEST DISTRICT, Sikkim, India",27.3,88.15
 Tamil Nadu,ARIYALUR,"ARIYALUR, Tamil Nadu, India",11.1530559,79.2585797
 Tamil Nadu,COIMBATORE,"COIMBATORE, Tamil Nadu, India",11.0018115,76.9628425
 Tamil Nadu,CUDDALORE,"CUDDALORE, Tamil Nadu, India",11.520207,79.3396356
@@ -511,7 +511,7 @@ Telangana ,MAHBUBNAGAR,"MAHBUBNAGAR, Telangana , India",16.7434538,77.9923191
 Telangana ,MEDAK,"MEDAK, Telangana , India",17.9375095,78.211745
 Telangana ,NALGONDA,"NALGONDA, Telangana , India",16.8579636,79.2174935
 Telangana ,NIZAMABAD,"NIZAMABAD, Telangana , India",18.6732693,78.0978477
-Telangana ,RANGAREDDI,"RANGAREDDI, Telangana , India",,
+Telangana ,RANGAREDDI,"RANGAREDDI, Telangana , India",17.3,78.4
 Telangana ,WARANGAL,"WARANGAL, Telangana , India",17.9820644,79.5970954
 Tripura,DHALAI,"DHALAI, Tripura, India",23.8253158,91.9732227
 Tripura,NORTH TRIPURA,"NORTH TRIPURA, Tripura, India",24.0921476,92.2451214
@@ -562,7 +562,7 @@ Uttar Pradesh,KANPUR NAGAR,"KANPUR NAGAR, Uttar Pradesh, India",26.4410107,80.26
 Uttar Pradesh,KASGANJ,"KASGANJ, Uttar Pradesh, India",27.7888527,78.8229701
 Uttar Pradesh,KAUSHAMBI,"KAUSHAMBI, Uttar Pradesh, India",25.5342456,81.4493567
 Uttar Pradesh,KHERI,"KHERI, Uttar Pradesh, India",28.116667,80.716667
-Uttar Pradesh,KUSHI NAGAR,"KUSHI NAGAR, Uttar Pradesh, India",,
+Uttar Pradesh,KUSHI NAGAR,"KUSHI NAGAR, Uttar Pradesh, India",26.74,83.89
 Uttar Pradesh,LALITPUR,"LALITPUR, Uttar Pradesh, India",24.6999688,78.51862
 Uttar Pradesh,LUCKNOW,"LUCKNOW, Uttar Pradesh, India",26.8381,80.9346001
 Uttar Pradesh,MAHARAJGANJ,"MAHARAJGANJ, Uttar Pradesh, India",27.0936024,83.5660681
@@ -579,7 +579,7 @@ Uttar Pradesh,PRATAPGARH,"PRATAPGARH, Uttar Pradesh, India",25.75,81.75
 Uttar Pradesh,RAE BARELI,"RAE BARELI, Uttar Pradesh, India",26.25,81.25
 Uttar Pradesh,RAMPUR,"RAMPUR, Uttar Pradesh, India",28.7934728,79.1845806
 Uttar Pradesh,SAHARANPUR,"SAHARANPUR, Uttar Pradesh, India",29.9856799,77.5040646
-Uttar Pradesh,SANT KABEER NAGAR,"SANT KABEER NAGAR, Uttar Pradesh, India",,
+Uttar Pradesh,SANT KABEER NAGAR,"SANT KABEER NAGAR, Uttar Pradesh, India",26.78,83.07
 Uttar Pradesh,SANT RAVIDAS NAGAR,"SANT RAVIDAS NAGAR, Uttar Pradesh, India",25.3574077,82.5002953
 Uttar Pradesh,SHAHJAHANPUR,"SHAHJAHANPUR, Uttar Pradesh, India",27.9128583,79.7476254
 Uttar Pradesh,SHRAVASTI,"SHRAVASTI, Uttar Pradesh, India",27.5083429,82.0263569
@@ -598,12 +598,12 @@ Uttarakhand,HARIDWAR,"HARIDWAR, Uttarakhand, India",29.9384473,78.1452985
 Uttarakhand,NAINITAL,"NAINITAL, Uttarakhand, India",29.3905295,79.460869
 Uttarakhand,PAURI GARHWAL,"PAURI GARHWAL, Uttarakhand, India",29.8473168,78.7070479
 Uttarakhand,PITHORAGARH,"PITHORAGARH, Uttarakhand, India",29.585871,80.215167
-Uttarakhand,RUDRA PRAYAG,"RUDRA PRAYAG, Uttarakhand, India",,
+Uttarakhand,RUDRA PRAYAG,"RUDRA PRAYAG, Uttarakhand, India",30.28,78.98
 Uttarakhand,TEHRI GARHWAL,"TEHRI GARHWAL, Uttarakhand, India",30.4658181,78.4837349
-Uttarakhand,UDAM SINGH NAGAR,"UDAM SINGH NAGAR, Uttarakhand, India",,
-Uttarakhand,UTTAR KASHI,"UTTAR KASHI, Uttarakhand, India",,
-West Bengal,24 PARAGANAS NORTH,"24 PARAGANAS NORTH, West Bengal, India",,
-West Bengal,24 PARAGANAS SOUTH,"24 PARAGANAS SOUTH, West Bengal, India",,
+Uttarakhand,UDAM SINGH NAGAR,"UDAM SINGH NAGAR, Uttarakhand, India",29.0,79.4
+Uttarakhand,UTTAR KASHI,"UTTAR KASHI, Uttarakhand, India",30.73,78.45
+West Bengal,24 PARAGANAS NORTH,"24 PARAGANAS NORTH, West Bengal, India",22.65,88.45
+West Bengal,24 PARAGANAS SOUTH,"24 PARAGANAS SOUTH, West Bengal, India",22.18,88.43
 West Bengal,BANKURA,"BANKURA, West Bengal, India",23.132377,87.2081925
 West Bengal,BARDHAMAN,"BARDHAMAN, West Bengal, India",23.2495714,87.8681751
 West Bengal,BIRBHUM,"BIRBHUM, West Bengal, India",24.0621532,87.6982823
